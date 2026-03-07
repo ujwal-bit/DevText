@@ -1,0 +1,4 @@
+Question,Option_A,Option_B,Option_C,Option_D,Correct_Option,Explanation
+What is the area of a circle with radius $r$?,$\pi r$,$\pi r^2$,$2\pi r$,$2\pi r^2$,B,The area is calculated as $\pi$ times the radius squared: $\pi r^2$.
+Identify the following molecule: [SMILES] CCO,Methanol,Propanol,Ethanol,Butanol,C,The SMILES string CCO represents Ethanol ($\text{C}_2\text{H}_5\text{OH}$).
+Which of the following represents the quadratic formula?,"$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$","$$x = a^2 + b^2 = c^2$$","$$y = mx + b$$","$$E = mc^2$$",A,The quadratic formula finds the roots of a parabola $ax^2 + bx + c = 0$.
